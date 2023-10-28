@@ -1087,7 +1087,7 @@ div.learn-more a:visited {
   color: #244d4d;
 }
 
-div.nav-link a:visited {
+div.nav-link a{
   color: black;
   text-decoration: none;
 }
