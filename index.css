@@ -1096,6 +1096,7 @@ div.logo1 a:visited {
 }
 a {
   text-decoration: none;
+  color: white;
 }
 
 .cart-icon {
